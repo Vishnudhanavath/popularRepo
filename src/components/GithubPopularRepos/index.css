@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.mainRepo {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  text-align: center;
+}
+.items {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-left: 20vh;
+  margin-right: 20vh;
+}
+.heading {
+  font-family: Lobster;
+  font-weight: bold;
+  font-size: 40px;
+}
+.filterdItems {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

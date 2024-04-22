@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.Item {
+  list-style-type: none;
+  font-family: Roboto;
+  font-size: 22px;
+  margin-left: 1vh;
+  font-weight: bold;
+}
+.blueStyle {
+  border: solid #0284c7 1px;
+  color: #0284c7;
+  height: 6vh;
+  padding: 5px;
+  margin-left: 2vh;
+  margin-right: 2vh;
+  border-radius: 15px;
+}
+.but {
+  background-color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+  border-width: 0px;
+}
